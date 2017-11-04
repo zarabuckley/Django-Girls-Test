@@ -1,0 +1,15 @@
+blob-store
+compile-cache
+dev
+storage
+.apm
+.node-gyp
+.npm
+
+*.pyc
+*~
+_pycache_
+myvenv
+db.sqlite3
+/static
+.DS_Store
